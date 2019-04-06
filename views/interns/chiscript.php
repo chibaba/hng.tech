@@ -15,16 +15,16 @@
                         <h6>Chinedu Onyeoka</h6>
                         <p>Fullstack Engineer</p>
                         <ul class="list">
-                           <li><a href="#" target="_blank"<i class="fab fa-twitter fa-2x"></i></a></li>
-                           <li><a href="#" target="_blank"<i class="fab fa-github fa-2x"></i></a></li>
-                           <li><a href="#" target="_blank"<i class="fab fa-medium fa-2x"></i></a></li>
+                           <li><a href="https://twitter.com/ocjonyeoka" target="_blank"<i class="fab fa-twitter fa-2x"></i></a></li>
+                           <li><a href="https://github.com/chibaba" target="_blank"<i class="fab fa-github fa-2x"></i></a></li>
+                           <li><a href="https://medium.com/@olagbemichinedujohn" target="_blank"<i class="fab fa-medium fa-2x"></i></a></li>
                         </ul>
                      </div>
                   </div>
                   <div class="col-md-6 col-xs-12 align-items-center">
                      <div class="intern-bio border-blue">
                         <h6>About me</h6>
-                        <p> This Love I have for technology, even me dont understand . The idea is to be able to solve both social and economic issues with tech</p>
+                        <p> This Love I have for technology . The idea is to be able to solve both social and economic issues with tech</p>
                         <br />
                         <h6>Skills</h6>
                         <p>JavaScript | React | Nodejs</p>
